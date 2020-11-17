@@ -24,3 +24,7 @@ code {
   color: aliceblue;
   border: none;
 }
+
+.done {
+  text-decoration: line-through;
+}
