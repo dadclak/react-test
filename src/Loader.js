@@ -5,8 +5,8 @@ export default function Loader() {
         <div className="lds-grid"
             style={{ 
                 display: 'flex',
-                justifyContent: 'center',
-                margin: '.5rem'
+                marginLeft: 'auto',
+                marginRight: 'auto'
             }}
         >
             <div></div>
